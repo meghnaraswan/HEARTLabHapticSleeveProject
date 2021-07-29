@@ -1,0 +1,22 @@
+2021-07-19 16:47:26,010 - INFO - root - 
+
+
+2021-07-19 16:47:26,010 - INFO - root - PROGRAM BEGINS
+2021-07-19 16:47:26,011 - DEBUG - asyncio - Using proactor: IocpProactor
+2021-07-19 16:47:26,147 - DEBUG - bleak.backends.winrt.scanner - Received 62:79:1C:DE:1C:D1: Unknown.
+2021-07-19 16:47:26,150 - DEBUG - bleak.backends.winrt.scanner - Received 62:79:1C:DE:1C:D1: Unknown.
+2021-07-19 16:47:26,411 - DEBUG - bleak.backends.winrt.scanner - Received 62:79:1C:DE:1C:D1: Unknown.
+2021-07-19 16:47:26,413 - DEBUG - bleak.backends.winrt.scanner - Received 62:79:1C:DE:1C:D1: Unknown.
+2021-07-19 16:47:27,012 - DEBUG - bleak.backends.winrt.scanner - Received 29:A9:B9:4A:40:2A: Unknown.
+2021-07-19 16:47:27,586 - DEBUG - bleak.backends.winrt.scanner - Received 6E:D9:D0:8A:17:90: Unknown.
+2021-07-19 16:47:27,589 - DEBUG - bleak.backends.winrt.scanner - Received 6E:D9:D0:8A:17:90: Unknown.
+2021-07-19 16:47:27,825 - DEBUG - bleak.backends.winrt.scanner - Received 29:A9:B9:4A:40:2A: Unknown.
+2021-07-19 16:47:28,070 - DEBUG - bleak.backends.winrt.scanner - Received 60:86:B7:2E:3C:F5: Unknown.
+2021-07-19 16:47:28,071 - DEBUG - bleak.backends.winrt.scanner - Received 60:86:B7:2E:3C:F5: Unknown.
+2021-07-19 16:47:28,648 - DEBUG - bleak.backends.winrt.scanner - Received 29:A9:B9:4A:40:2A: Unknown.
+2021-07-19 16:47:29,951 - DEBUG - bleak.backends.winrt.scanner - Received 62:79:1C:DE:1C:D1: Unknown.
+2021-07-19 16:47:29,953 - DEBUG - bleak.backends.winrt.scanner - Received 62:79:1C:DE:1C:D1: Unknown.
+2021-07-19 16:47:30,302 - DEBUG - bleak.backends.winrt.scanner - Received 6E:D9:D0:8A:17:90: Unknown.
+2021-07-19 16:47:30,304 - DEBUG - bleak.backends.winrt.scanner - Received 6E:D9:D0:8A:17:90: Unknown.
+2021-07-19 16:47:31,122 - DEBUG - bleak.backends.winrt.scanner - Received 6E:D9:D0:8A:17:90: Unknown.
+2021-07-19 16:47:31,123 - DEBUG - bleak.backends.winrt.scanner - Received 6E:D9:D0:8A:17:90: Unknown.

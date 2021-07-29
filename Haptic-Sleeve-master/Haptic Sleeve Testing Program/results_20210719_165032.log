@@ -1,0 +1,198 @@
+2021-07-19 16:50:32,572 - INFO - root - 
+
+
+2021-07-19 16:50:32,572 - INFO - root - PROGRAM BEGINS
+2021-07-19 16:50:32,573 - DEBUG - asyncio - Using proactor: IocpProactor
+2021-07-19 16:50:32,759 - DEBUG - bleak.backends.winrt.scanner - Received 6E:D9:D0:8A:17:90: Unknown.
+2021-07-19 16:50:32,770 - DEBUG - bleak.backends.winrt.scanner - Received 6E:D9:D0:8A:17:90: Unknown.
+2021-07-19 16:50:33,565 - DEBUG - bleak.backends.winrt.scanner - Received 6E:D9:D0:8A:17:90: Unknown.
+2021-07-19 16:50:33,566 - DEBUG - bleak.backends.winrt.scanner - Received 6E:D9:D0:8A:17:90: Unknown.
+2021-07-19 16:50:34,038 - DEBUG - bleak.backends.winrt.scanner - Received 29:A9:B9:4A:40:2A: Unknown.
+2021-07-19 16:50:34,858 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 16:50:34,859 - DEBUG - bleak.backends.winrt.scanner - 3 devices found. Watcher status: 3.
+2021-07-19 16:50:34,859 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 16:50:41,257 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:50:41,262 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 16:50:41,388 - INFO - bleak.backends.winrt.client - Services resolved for BleakClientWinRT (24:6f:28:7a:91:76)
+2021-07-19 16:50:41,616 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:50:43,710 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:50:44,077 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:50:46,165 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:50:46,538 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:50:47,115 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:50:47,496 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:50:48,581 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:50:48,996 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:50:50,088 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:50:50,498 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:50:51,597 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:50:51,997 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:50:55,595 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:50:55,979 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:05,650 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:06,028 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:08,118 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:08,488 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:10,589 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:11,008 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:11,594 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:11,968 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:13,053 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:13,468 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:15,061 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:15,448 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:19,041 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:19,431 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:24,556 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:24,585 - DEBUG - root - User: haptic
+2021-07-19 16:51:24,923 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:25,500 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:25,884 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:32,519 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:32,901 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:33,479 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:33,860 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:37,477 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:37,878 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:39,475 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:39,857 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:44,986 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:45,429 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:45,528 - DEBUG - root - Intensity test started
+2021-07-19 16:51:48,855 - DEBUG - bleak.backends.winrt.client - Disconnecting from BLE device...
+2021-07-19 16:51:49,053 - DEBUG - bleak.backends.winrt.scanner - Received 62:79:1C:DE:1C:D1: Unknown.
+2021-07-19 16:51:49,055 - DEBUG - bleak.backends.winrt.scanner - Received 62:79:1C:DE:1C:D1: Unknown.
+2021-07-19 16:51:50,001 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 16:51:50,002 - DEBUG - bleak.backends.winrt.scanner - 2 devices found. Watcher status: 3.
+2021-07-19 16:51:50,002 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 16:51:52,535 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:52,536 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 16:51:52,617 - INFO - bleak.backends.winrt.client - Services resolved for BleakClientWinRT (24:6f:28:7a:91:76)
+2021-07-19 16:51:52,930 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:56,038 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:56,407 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:51:56,982 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:51:57,367 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:52:00,969 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:52:01,378 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:52:02,965 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:52:03,358 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:52:04,705 - DEBUG - root - User: haptic
+2021-07-19 16:52:04,951 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:52:05,338 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:52:07,297 - DEBUG - root - Accuracy test started
+2021-07-19 16:52:10,796 - DEBUG - bleak.backends.winrt.client - Disconnecting from BLE device...
+2021-07-19 16:52:11,134 - DEBUG - bleak.backends.winrt.scanner - Received 6E:D9:D0:8A:17:90: Unknown.
+2021-07-19 16:52:11,135 - DEBUG - bleak.backends.winrt.scanner - Received 6E:D9:D0:8A:17:90: Unknown.
+2021-07-19 16:52:11,605 - DEBUG - bleak.backends.winrt.scanner - Received 29:A9:B9:4A:40:2A: Unknown.
+2021-07-19 16:52:12,422 - DEBUG - bleak.backends.winrt.scanner - Received 29:A9:B9:4A:40:2A: Unknown.
+2021-07-19 16:52:12,493 - DEBUG - bleak.backends.winrt.scanner - Received 6E:D9:D0:8A:17:90: Unknown.
+2021-07-19 16:52:12,495 - DEBUG - bleak.backends.winrt.scanner - Received 6E:D9:D0:8A:17:90: Unknown.
+2021-07-19 16:52:13,964 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 16:52:13,965 - DEBUG - bleak.backends.winrt.scanner - 3 devices found. Watcher status: 3.
+2021-07-19 16:52:13,965 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 16:52:15,978 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:52:15,979 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 16:52:16,060 - INFO - bleak.backends.winrt.client - Services resolved for BleakClientWinRT (24:6f:28:7a:91:76)
+2021-07-19 16:52:16,376 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:52:27,064 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:52:27,453 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:52:27,860 - DEBUG - root - User: 2
+2021-07-19 16:52:28,538 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:52:28,955 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:52:30,534 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:52:30,934 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:52:31,513 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:52:31,893 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:52:32,498 - DEBUG - root - Speed test started
+2021-07-19 16:52:36,332 - DEBUG - bleak.backends.winrt.client - Disconnecting from BLE device...
+2021-07-19 16:52:36,616 - DEBUG - bleak.backends.winrt.scanner - Received 62:79:1C:DE:1C:D1: Unknown.
+2021-07-19 16:52:36,617 - DEBUG - bleak.backends.winrt.scanner - Received 62:79:1C:DE:1C:D1: Unknown.
+2021-07-19 16:52:36,851 - DEBUG - bleak.backends.winrt.scanner - Received 29:A9:B9:4A:40:2A: Unknown.
+2021-07-19 16:52:37,664 - DEBUG - bleak.backends.winrt.scanner - Received 29:A9:B9:4A:40:2A: Unknown.
+2021-07-19 16:52:38,486 - DEBUG - bleak.backends.winrt.scanner - Received 29:A9:B9:4A:40:2A: Unknown.
+2021-07-19 16:52:38,501 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 16:52:38,502 - DEBUG - bleak.backends.winrt.scanner - 3 devices found. Watcher status: 3.
+2021-07-19 16:52:38,502 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 16:52:47,101 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:52:47,101 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 16:52:47,184 - INFO - bleak.backends.winrt.client - Services resolved for BleakClientWinRT (24:6f:28:7a:91:76)
+2021-07-19 16:52:47,479 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:52:50,068 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:52:50,478 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:52:53,084 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:52:53,475 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:53:04,138 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:53:04,498 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:53:08,176 - DEBUG - root - User: wasd
+2021-07-19 16:53:09,633 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:53:10,023 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:53:15,150 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:53:15,520 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:53:17,623 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:53:18,041 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:53:19,132 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:53:19,539 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:53:21,137 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:53:21,520 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:53:27,662 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:53:28,058 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:53:28,644 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:53:29,017 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:53:32,639 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:53:33,021 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:53:35,117 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:53:35,483 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:53:44,138 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:53:44,529 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:53:48,130 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:53:48,490 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:53:50,596 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:53:51,011 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:53:54,626 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:53:55,025 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:53:56,116 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:53:56,525 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:53:58,124 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:53:58,507 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:00,103 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:00,487 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:02,585 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:02,946 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:09,060 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:09,469 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:10,550 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:11,026 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:11,605 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:11,987 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:14,092 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:14,507 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:17,606 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:17,999 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:28,196 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:28,600 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:29,694 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:30,101 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:34,728 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:35,139 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:41,775 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:42,137 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:43,220 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:43,638 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:44,722 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:45,139 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:49,252 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:49,629 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:52,235 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:52,640 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:54,730 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:55,101 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:54:56,707 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:54:57,080 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:55:01,193 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:55:01,575 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:55:04,677 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:55:05,045 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:55:05,622 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 16:55:06,007 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 16:55:11,634 - DEBUG - bleak.backends.winrt.client - Disconnecting from BLE device...

@@ -1,0 +1,278 @@
+2021-07-19 19:03:21,244 - INFO - root - 
+
+
+2021-07-19 19:03:21,245 - INFO - root - PROGRAM BEGINS
+2021-07-19 19:03:21,245 - DEBUG - asyncio - Using proactor: IocpProactor
+2021-07-19 19:03:21,301 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 19:03:21,302 - DEBUG - bleak.backends.winrt.scanner - 1 devices found. Watcher status: 3.
+2021-07-19 19:03:21,302 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 19:03:22,310 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 19:03:22,311 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 19:03:22,429 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:22,431 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:22,440 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:22,441 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:22,608 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:22,720 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 19:03:22,878 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:22,883 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:22,884 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:23,208 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:23,428 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:23,794 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:23,795 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:24,021 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:24,609 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:25,313 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 19:03:25,314 - DEBUG - bleak.backends.winrt.scanner - 6 devices found. Watcher status: 3.
+2021-07-19 19:03:25,314 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 19:03:25,811 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 19:03:25,812 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 19:03:25,921 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:25,926 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:25,927 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:26,202 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 19:03:26,255 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:26,256 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:27,553 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:27,557 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:27,788 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 19:03:27,789 - DEBUG - bleak.backends.winrt.scanner - 5 devices found. Watcher status: 3.
+2021-07-19 19:03:27,790 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 19:03:28,286 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 19:03:28,287 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 19:03:28,391 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:28,392 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:28,662 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 19:03:28,682 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:28,683 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:28,956 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:28,957 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:29,189 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:29,195 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:29,790 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:29,792 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:30,018 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:30,259 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 19:03:30,260 - DEBUG - bleak.backends.winrt.scanner - 6 devices found. Watcher status: 3.
+2021-07-19 19:03:30,260 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 19:03:30,759 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 19:03:30,759 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 19:03:30,858 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:30,859 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:30,871 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:30,873 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:30,877 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:30,878 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:31,123 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 19:03:31,146 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:31,147 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:31,902 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:32,480 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:32,481 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:32,503 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:32,504 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:32,721 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 19:03:32,722 - DEBUG - bleak.backends.winrt.scanner - 5 devices found. Watcher status: 3.
+2021-07-19 19:03:32,722 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 19:03:33,216 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 19:03:33,216 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 19:03:33,332 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:33,583 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 19:03:33,608 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:33,885 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:34,134 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:34,136 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:34,477 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:34,478 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:34,711 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:34,947 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:34,949 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:35,302 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:35,303 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:35,535 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:35,679 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 19:03:35,680 - DEBUG - bleak.backends.winrt.scanner - 4 devices found. Watcher status: 3.
+2021-07-19 19:03:35,680 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 19:03:36,185 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 19:03:36,185 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 19:03:36,359 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:36,584 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 19:03:36,823 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:36,839 - DEBUG - bleak.backends.winrt.scanner - Received 7D:3D:51:D1:CC:01: Unknown.
+2021-07-19 19:03:36,841 - DEBUG - bleak.backends.winrt.scanner - Received 7D:3D:51:D1:CC:01: Unknown.
+2021-07-19 19:03:37,070 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:37,188 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:37,662 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 19:03:37,671 - DEBUG - bleak.backends.winrt.scanner - 5 devices found. Watcher status: 3.
+2021-07-19 19:03:37,671 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 19:03:38,174 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 19:03:38,174 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 19:03:38,469 - DEBUG - bleak.backends.winrt.scanner - Received 7D:3D:51:D1:CC:01: Unknown.
+2021-07-19 19:03:38,470 - DEBUG - bleak.backends.winrt.scanner - Received 7D:3D:51:D1:CC:01: Unknown.
+2021-07-19 19:03:38,565 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 19:03:38,889 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:38,890 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:39,305 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:39,307 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:39,663 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 19:03:39,664 - DEBUG - bleak.backends.winrt.scanner - 4 devices found. Watcher status: 3.
+2021-07-19 19:03:39,664 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 19:03:40,663 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 19:03:40,664 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 19:03:41,089 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 19:03:41,181 - DEBUG - bleak.backends.winrt.scanner - Received 7D:3D:51:D1:CC:01: Unknown.
+2021-07-19 19:03:41,182 - DEBUG - bleak.backends.winrt.scanner - Received 7D:3D:51:D1:CC:01: Unknown.
+2021-07-19 19:03:41,998 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:42,000 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:42,238 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:42,731 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:42,732 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:43,054 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:43,187 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 19:03:43,188 - DEBUG - bleak.backends.winrt.scanner - 5 devices found. Watcher status: 3.
+2021-07-19 19:03:43,189 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 19:03:43,682 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 19:03:43,683 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 19:03:44,087 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 19:03:44,110 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:44,112 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:44,343 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:44,462 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:44,463 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:45,179 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:45,527 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:45,529 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:46,000 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:46,341 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:46,342 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:46,346 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:46,348 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:46,584 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:46,821 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:47,406 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:47,646 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:47,986 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:47,988 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:48,005 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:48,007 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:48,711 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 19:03:48,712 - DEBUG - bleak.backends.winrt.scanner - 6 devices found. Watcher status: 3.
+2021-07-19 19:03:48,713 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 19:03:49,212 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 19:03:49,213 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 19:03:49,339 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:49,341 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:49,608 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 19:03:49,638 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:49,640 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:49,648 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:49,650 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:49,880 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:49,882 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:50,459 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:50,460 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:50,937 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:51,752 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:52,332 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:52,334 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:52,573 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:52,717 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 19:03:52,717 - DEBUG - bleak.backends.winrt.scanner - 5 devices found. Watcher status: 3.
+2021-07-19 19:03:52,718 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 19:03:53,211 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 19:03:53,211 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 19:03:53,628 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 19:03:53,654 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:53,981 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:53,995 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:53,997 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:54,255 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:54,812 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:54,814 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:55,052 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:55,054 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:55,159 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:55,160 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:55,624 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:55,626 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:03:55,642 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:03:55,866 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:55,867 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:55,981 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:55,983 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:56,105 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:56,239 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 19:03:56,241 - DEBUG - bleak.backends.winrt.scanner - 6 devices found. Watcher status: 3.
+2021-07-19 19:03:56,241 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 19:03:56,729 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 19:03:56,729 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 19:03:56,917 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:57,110 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 19:03:58,447 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:58,448 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:03:58,701 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 19:03:58,702 - DEBUG - bleak.backends.winrt.scanner - 3 devices found. Watcher status: 3.
+2021-07-19 19:03:58,702 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 19:03:59,197 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 19:03:59,197 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 19:03:59,395 - DEBUG - bleak.backends.winrt.scanner - Received 7D:3D:51:D1:CC:01: Unknown.
+2021-07-19 19:03:59,402 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:03:59,572 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 19:03:59,631 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:03:59,653 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 19:03:59,656 - DEBUG - bleak.backends.winrt.scanner - 4 devices found. Watcher status: 3.
+2021-07-19 19:03:59,657 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 19:04:00,149 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 19:04:00,149 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 19:04:00,451 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:04:00,533 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 19:04:01,739 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:04:01,741 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:04:01,849 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:04:01,850 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:04:02,567 - DEBUG - bleak.backends.winrt.scanner - Received 40:D2:3E:88:6B:06: Unknown.
+2021-07-19 19:04:02,804 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:04:03,511 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:04:03,513 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:04:03,638 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 19:04:03,639 - DEBUG - bleak.backends.winrt.scanner - 6 devices found. Watcher status: 3.
+2021-07-19 19:04:03,639 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 19:04:04,121 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 19:04:04,122 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 19:04:04,258 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:04:04,332 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:04:04,334 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:04:04,548 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 19:04:04,572 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:04:04,574 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:04:04,800 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:04:05,145 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:04:05,147 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:04:05,390 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:04:05,392 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:04:05,615 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:04:05,965 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:04:05,967 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:04:06,097 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:04:07,048 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:04:07,049 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:04:07,264 - DEBUG - bleak.backends.winrt.scanner - Received 7D:3D:51:D1:CC:01: Unknown.
+2021-07-19 19:04:07,266 - DEBUG - bleak.backends.winrt.scanner - Received 7D:3D:51:D1:CC:01: Unknown.
+2021-07-19 19:04:08,566 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
+2021-07-19 19:04:08,679 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:04:08,681 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:04:09,499 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:04:09,501 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:04:10,241 - DEBUG - bleak.backends.winrt.scanner - Received 30:2A:F5:65:B7:E6: Unknown.
+2021-07-19 19:04:10,315 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:04:10,317 - DEBUG - bleak.backends.winrt.scanner - Received 78:70:58:03:92:94: Unknown.
+2021-07-19 19:04:10,700 - DEBUG - bleak.backends.winrt.scanner - Received 24:6F:28:7A:91:76: Haptic Sleeve1.
+2021-07-19 19:04:10,701 - DEBUG - bleak.backends.winrt.scanner - 6 devices found. Watcher status: 3.
+2021-07-19 19:04:10,701 - DEBUG - bleak.backends.winrt.client - Connecting to BLE device @ 24:6f:28:7a:91:76
+2021-07-19 19:04:11,198 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 1
+2021-07-19 19:04:11,198 - DEBUG - bleak.backends.winrt.client - Get Services...
+2021-07-19 19:04:11,385 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:04:11,387 - DEBUG - bleak.backends.winrt.scanner - Received 47:3E:76:90:52:4A: Unknown.
+2021-07-19 19:04:11,572 - DEBUG - bleak.backends.winrt.client - _ConnectionStatusChanged_Handler: 0
+2021-07-19 19:04:11,610 - DEBUG - bleak.backends.winrt.scanner - Received 04:26:EC:65:6E:27: Unknown.
