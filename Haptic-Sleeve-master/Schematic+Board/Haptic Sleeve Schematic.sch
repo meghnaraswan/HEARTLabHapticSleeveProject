@@ -1357,6 +1357,300 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 </deviceset>
 </devicesets>
 </library>
+<library name="allegro" urn="urn:adsk.eagle:library:93">
+<description>&lt;b&gt;Allegro MicroSystems, Inc&lt;/b&gt;&lt;p&gt;
+www.allegromicro.com&lt;br&gt;
+&lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
+<packages>
+<package name="TSSOP16E" urn="urn:adsk.eagle:footprint:3430/1" library_version="3">
+<description>&lt;b&gt;LP Package TSSOP with Exposed Thermal Pad&lt;/b&gt;&lt;p&gt;
+Source: &lt;a href="http://www.allegromicro.com/Products/Motor-Driver-And-Interface-ICs/Brushless-DC-Motor-Drivers/A3946.aspx"&gt; Data sheet &lt;/a&gt;</description>
+<smd name="EXP" x="0" y="0" dx="3" dy="3" layer="1" stop="no" cream="no"/>
+<smd name="1" x="-2.275" y="-3.05" dx="0.45" dy="1.7" layer="1" stop="no" cream="no"/>
+<smd name="2" x="-1.625" y="-3.05" dx="0.45" dy="1.7" layer="1" stop="no" cream="no"/>
+<smd name="3" x="-0.975" y="-3.05" dx="0.45" dy="1.7" layer="1" stop="no" cream="no"/>
+<smd name="4" x="-0.325" y="-3.05" dx="0.45" dy="1.7" layer="1" stop="no" cream="no"/>
+<smd name="5" x="0.325" y="-3.05" dx="0.45" dy="1.7" layer="1" stop="no" cream="no"/>
+<smd name="6" x="0.975" y="-3.05" dx="0.45" dy="1.7" layer="1" stop="no" cream="no"/>
+<smd name="7" x="1.625" y="-3.05" dx="0.45" dy="1.7" layer="1" stop="no" cream="no"/>
+<smd name="8" x="2.275" y="-3.05" dx="0.45" dy="1.7" layer="1" stop="no" cream="no"/>
+<smd name="9" x="2.275" y="3.05" dx="0.45" dy="1.7" layer="1" rot="R180" stop="no" cream="no"/>
+<smd name="10" x="1.625" y="3.05" dx="0.45" dy="1.7" layer="1" rot="R180" stop="no" cream="no"/>
+<smd name="11" x="0.975" y="3.05" dx="0.45" dy="1.7" layer="1" rot="R180" stop="no" cream="no"/>
+<smd name="12" x="0.325" y="3.05" dx="0.45" dy="1.7" layer="1" rot="R180" stop="no" cream="no"/>
+<smd name="13" x="-0.325" y="3.05" dx="0.45" dy="1.7" layer="1" rot="R180" stop="no" cream="no"/>
+<smd name="14" x="-0.975" y="3.05" dx="0.45" dy="1.7" layer="1" rot="R180" stop="no" cream="no"/>
+<smd name="15" x="-1.625" y="3.05" dx="0.45" dy="1.7" layer="1" rot="R180" stop="no" cream="no"/>
+<smd name="16" x="-2.275" y="3.05" dx="0.45" dy="1.7" layer="1" rot="R180" stop="no" cream="no"/>
+<wire x1="-2.4" y1="2.1" x2="2.4" y2="2.1" width="0.2032" layer="51"/>
+<wire x1="2.4" y1="2.1" x2="2.4" y2="-2.1" width="0.2032" layer="51"/>
+<wire x1="2.4" y1="-2.1" x2="-2.4" y2="-2.1" width="0.2032" layer="51"/>
+<wire x1="-2.4" y1="-2.1" x2="-2.4" y2="2.1" width="0.2032" layer="51"/>
+<wire x1="-2.4" y1="-1.775" x2="-2.4" y2="1.775" width="0.2032" layer="21"/>
+<wire x1="2.4" y1="1.775" x2="2.4" y2="-1.775" width="0.2032" layer="21"/>
+<rectangle x1="-2.525" y1="-3.975" x2="-2.025" y2="-2.125" layer="29"/>
+<rectangle x1="-2.45" y1="-3.85" x2="-2.1" y2="-2.25" layer="31"/>
+<rectangle x1="-1.875" y1="-3.975" x2="-1.375" y2="-2.125" layer="29"/>
+<rectangle x1="-1.8" y1="-3.85" x2="-1.45" y2="-2.25" layer="31"/>
+<rectangle x1="-1.225" y1="-3.975" x2="-0.725" y2="-2.125" layer="29"/>
+<rectangle x1="-1.15" y1="-3.85" x2="-0.8" y2="-2.25" layer="31"/>
+<rectangle x1="-0.575" y1="-3.975" x2="-0.075" y2="-2.125" layer="29"/>
+<rectangle x1="-0.5" y1="-3.85" x2="-0.15" y2="-2.25" layer="31"/>
+<rectangle x1="0.075" y1="-3.975" x2="0.575" y2="-2.125" layer="29"/>
+<rectangle x1="0.15" y1="-3.85" x2="0.5" y2="-2.25" layer="31"/>
+<rectangle x1="0.725" y1="-3.975" x2="1.225" y2="-2.125" layer="29"/>
+<rectangle x1="0.8" y1="-3.85" x2="1.15" y2="-2.25" layer="31"/>
+<rectangle x1="1.375" y1="-3.975" x2="1.875" y2="-2.125" layer="29"/>
+<rectangle x1="1.45" y1="-3.85" x2="1.8" y2="-2.25" layer="31"/>
+<rectangle x1="2.025" y1="-3.975" x2="2.525" y2="-2.125" layer="29"/>
+<rectangle x1="2.1" y1="-3.85" x2="2.45" y2="-2.25" layer="31"/>
+<rectangle x1="2.025" y1="2.125" x2="2.525" y2="3.975" layer="29" rot="R180"/>
+<rectangle x1="2.1" y1="2.25" x2="2.45" y2="3.85" layer="31" rot="R180"/>
+<rectangle x1="1.375" y1="2.125" x2="1.875" y2="3.975" layer="29" rot="R180"/>
+<rectangle x1="1.45" y1="2.25" x2="1.8" y2="3.85" layer="31" rot="R180"/>
+<rectangle x1="0.725" y1="2.125" x2="1.225" y2="3.975" layer="29" rot="R180"/>
+<rectangle x1="0.8" y1="2.25" x2="1.15" y2="3.85" layer="31" rot="R180"/>
+<rectangle x1="0.075" y1="2.125" x2="0.575" y2="3.975" layer="29" rot="R180"/>
+<rectangle x1="0.15" y1="2.25" x2="0.5" y2="3.85" layer="31" rot="R180"/>
+<rectangle x1="-0.575" y1="2.125" x2="-0.075" y2="3.975" layer="29" rot="R180"/>
+<rectangle x1="-0.5" y1="2.25" x2="-0.15" y2="3.85" layer="31" rot="R180"/>
+<rectangle x1="-1.225" y1="2.125" x2="-0.725" y2="3.975" layer="29" rot="R180"/>
+<rectangle x1="-1.15" y1="2.25" x2="-0.8" y2="3.85" layer="31" rot="R180"/>
+<rectangle x1="-1.875" y1="2.125" x2="-1.375" y2="3.975" layer="29" rot="R180"/>
+<rectangle x1="-1.8" y1="2.25" x2="-1.45" y2="3.85" layer="31" rot="R180"/>
+<rectangle x1="-2.525" y1="2.125" x2="-2.025" y2="3.975" layer="29" rot="R180"/>
+<rectangle x1="-2.45" y1="2.25" x2="-2.1" y2="3.85" layer="31" rot="R180"/>
+<rectangle x1="-2.35" y1="-2.05" x2="0" y2="0" layer="51"/>
+<rectangle x1="-2.5" y1="-1.95" x2="-1.75" y2="0" layer="21"/>
+<rectangle x1="-1.625" y1="-1.625" x2="1.625" y2="1.625" layer="29"/>
+<rectangle x1="-1.3" y1="-1.3" x2="1.3" y2="1.3" layer="31"/>
+<text x="-2.925" y="-2.925" size="1.27" layer="25" rot="R90">&gt;NAME</text>
+<text x="4.225" y="-3.575" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+</package>
+</packages>
+<packages3d>
+<package3d name="TSSOP16E" urn="urn:adsk.eagle:package:3447/1" type="box" library_version="3">
+<description>LP Package TSSOP with Exposed Thermal Pad
+Source:  Data sheet </description>
+<packageinstances>
+<packageinstance name="TSSOP16E"/>
+</packageinstances>
+</package3d>
+</packages3d>
+<symbols>
+<symbol name="A3946" urn="urn:adsk.eagle:symbol:3429/1" library_version="3">
+<pin name="VBB" x="-12.7" y="7.62" length="short" direction="in"/>
+<pin name="FAULT" x="-12.7" y="5.08" length="short" direction="out"/>
+<pin name="IN1" x="-12.7" y="2.54" length="short" direction="in"/>
+<pin name="IN2" x="-12.7" y="0" length="short" direction="in"/>
+<pin name="RESET" x="-12.7" y="-2.54" length="short" direction="in"/>
+<pin name="DT" x="-12.7" y="-5.08" length="short" direction="pas"/>
+<pin name="VREF" x="-12.7" y="-7.62" length="short" direction="pas"/>
+<pin name="PGND" x="12.7" y="-10.16" length="short" direction="pwr" rot="R180"/>
+<pin name="LGND" x="-12.7" y="-10.16" length="short" direction="pwr"/>
+<pin name="VREG" x="12.7" y="-7.62" length="short" direction="pas" rot="R180"/>
+<pin name="CP1" x="12.7" y="-2.54" length="short" direction="pas" rot="R180"/>
+<pin name="CP2" x="12.7" y="-5.08" length="short" direction="pas" rot="R180"/>
+<pin name="GL" x="12.7" y="0" length="short" direction="out" rot="R180"/>
+<pin name="GH" x="12.7" y="5.08" length="short" direction="out" rot="R180"/>
+<pin name="BOOT" x="12.7" y="7.62" length="short" direction="in" rot="R180"/>
+<pin name="S" x="12.7" y="2.54" length="short" direction="in" rot="R180"/>
+<wire x1="-10.16" y1="10.16" x2="10.16" y2="10.16" width="0.4064" layer="94"/>
+<wire x1="10.16" y1="10.16" x2="10.16" y2="-12.7" width="0.4064" layer="94"/>
+<wire x1="10.16" y1="-12.7" x2="-10.16" y2="-12.7" width="0.4064" layer="94"/>
+<wire x1="-10.16" y1="-12.7" x2="-10.16" y2="10.16" width="0.4064" layer="94"/>
+<text x="-10.16" y="11.43" size="1.778" layer="95">&gt;NAME</text>
+<text x="-10.16" y="-15.24" size="1.778" layer="96">&gt;VALUE</text>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="A3946" urn="urn:adsk.eagle:component:3463/2" prefix="IC" library_version="3">
+<description>&lt;b&gt;Half-Bridge Power MOSFET Controller&lt;/b&gt;&lt;p&gt;
+Source: &lt;a href="http://www.allegromicro.com/Products/Motor-Driver-And-Interface-ICs/Brushless-DC-Motor-Drivers/A3946.aspx"&gt; Data sheet &lt;/a&gt;</description>
+<gates>
+<gate name="G$1" symbol="A3946" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="TSSOP16E">
+<connects>
+<connect gate="G$1" pin="BOOT" pad="8"/>
+<connect gate="G$1" pin="CP1" pad="3"/>
+<connect gate="G$1" pin="CP2" pad="2"/>
+<connect gate="G$1" pin="DT" pad="14"/>
+<connect gate="G$1" pin="FAULT" pad="9"/>
+<connect gate="G$1" pin="GH" pad="7"/>
+<connect gate="G$1" pin="GL" pad="5"/>
+<connect gate="G$1" pin="IN1" pad="10"/>
+<connect gate="G$1" pin="IN2" pad="11"/>
+<connect gate="G$1" pin="LGND" pad="13"/>
+<connect gate="G$1" pin="PGND" pad="4"/>
+<connect gate="G$1" pin="RESET" pad="12"/>
+<connect gate="G$1" pin="S" pad="6"/>
+<connect gate="G$1" pin="VBB" pad="16"/>
+<connect gate="G$1" pin="VREF" pad="1"/>
+<connect gate="G$1" pin="VREG" pad="15"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:3447/1"/>
+</package3dinstances>
+<technologies>
+<technology name="KLP-T">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="KLPTR-T">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+<library name="SparkFun-IC-Special-Function" urn="urn:adsk.eagle:library:527">
+<description>&lt;h3&gt;SparkFun Special Function ICs&lt;/h3&gt;
+This library contains ICs that do not really fit into the other, more generic categories.  Basically, anything that serves some function but has a bunch of brains or special bias circuitry that prevents it from being used as a general part qualifies for this category.
+&lt;p&gt;Contents:
+&lt;ul&gt;&lt;li&gt;555 timers&lt;/li&gt;
+&lt;li&gt;LED drivers&lt;/li&gt;
+&lt;li&gt;H-Bridge drivers&lt;/li&gt;
+&lt;li&gt;Motor drivers&lt;/li&gt;
+&lt;li&gt;Waveform generators&lt;/li&gt;
+&lt;li&gt;Crypto&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;&lt;br&gt;
+We've spent an enormous amount of time creating and checking these footprints and parts, but it is &lt;b&gt; the end user's responsibility&lt;/b&gt; to ensure correctness and suitablity for a given componet or application. 
+&lt;br&gt;
+&lt;br&gt;If you enjoy using this library, please buy one of our products at &lt;a href=" www.sparkfun.com"&gt;SparkFun.com&lt;/a&gt;.
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Licensing:&lt;/b&gt; Creative Commons ShareAlike 4.0 International - https://creativecommons.org/licenses/by-sa/4.0/ 
+&lt;br&gt;
+&lt;br&gt;
+You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
+<packages>
+<package name="SSOP24" urn="urn:adsk.eagle:footprint:39177/1" library_version="1">
+<wire x1="-4.25" y1="2.5" x2="4.25" y2="2.5" width="0.2032" layer="21"/>
+<wire x1="4.25" y1="2.5" x2="4.25" y2="-2.5" width="0.2032" layer="21"/>
+<wire x1="4.25" y1="-2.5" x2="-4.25" y2="-2.5" width="0.2032" layer="21"/>
+<wire x1="-4.25" y1="-2.5" x2="-4.25" y2="2.5" width="0.2032" layer="21"/>
+<circle x="-4.826" y="-3.048" radius="0.2231" width="0.2032" layer="21"/>
+<smd name="24" x="-3.575" y="3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="23" x="-2.925" y="3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="22" x="-2.275" y="3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="20" x="-0.975" y="3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="21" x="-1.625" y="3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="19" x="-0.325" y="3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="18" x="0.325" y="3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="17" x="0.975" y="3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="16" x="1.625" y="3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="15" x="2.275" y="3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="1" x="-3.575" y="-3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="2" x="-2.925" y="-3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="3" x="-2.275" y="-3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="4" x="-1.625" y="-3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="5" x="-0.975" y="-3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="6" x="-0.325" y="-3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="7" x="0.325" y="-3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="8" x="0.975" y="-3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="9" x="1.625" y="-3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="10" x="2.275" y="-3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="11" x="2.925" y="-3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="12" x="3.575" y="-3.656" dx="0.348" dy="1.397" layer="1"/>
+<smd name="13" x="3.575" y="3.656" dx="0.348" dy="1.397" layer="1" rot="R180"/>
+<smd name="14" x="2.925" y="3.656" dx="0.348" dy="1.397" layer="1" rot="R180"/>
+<text x="-3.81" y="1.27" size="0.4064" layer="25">&gt;NAME</text>
+<text x="-3.81" y="0" size="0.4064" layer="27">&gt;VALUE</text>
+</package>
+</packages>
+<packages3d>
+<package3d name="SSOP24" urn="urn:adsk.eagle:package:39211/1" type="box" library_version="1">
+<packageinstances>
+<packageinstance name="SSOP24"/>
+</packageinstances>
+</package3d>
+</packages3d>
+<symbols>
+<symbol name="TB6612FNG" urn="urn:adsk.eagle:symbol:39176/1" library_version="1">
+<wire x1="-12.7" y1="-17.78" x2="10.16" y2="-17.78" width="0.254" layer="94"/>
+<wire x1="10.16" y1="-17.78" x2="10.16" y2="15.24" width="0.254" layer="94"/>
+<wire x1="10.16" y1="15.24" x2="-12.7" y2="15.24" width="0.254" layer="94"/>
+<wire x1="-12.7" y1="15.24" x2="-12.7" y2="-17.78" width="0.254" layer="94"/>
+<text x="-12.7" y="15.748" size="1.27" layer="95">&gt;Name</text>
+<text x="-12.7" y="-20.32" size="1.27" layer="96">&gt;Value</text>
+<pin name="A01@1" x="-17.78" y="12.7" length="middle"/>
+<pin name="A01@2" x="-17.78" y="10.16" length="middle"/>
+<pin name="PGND1@3" x="-17.78" y="7.62" length="middle"/>
+<pin name="PGND1@4" x="-17.78" y="5.08" length="middle"/>
+<pin name="A02@5" x="-17.78" y="2.54" length="middle"/>
+<pin name="A02@6" x="-17.78" y="0" length="middle"/>
+<pin name="B02@7" x="-17.78" y="-2.54" length="middle"/>
+<pin name="B02@8" x="-17.78" y="-5.08" length="middle"/>
+<pin name="PGND2@9" x="-17.78" y="-7.62" length="middle"/>
+<pin name="PGND2@10" x="-17.78" y="-10.16" length="middle"/>
+<pin name="B01@11" x="-17.78" y="-12.7" length="middle"/>
+<pin name="B01@12" x="-17.78" y="-15.24" length="middle"/>
+<pin name="VM2" x="15.24" y="-15.24" length="middle" rot="R180"/>
+<pin name="VM3" x="15.24" y="-12.7" length="middle" rot="R180"/>
+<pin name="PWMB" x="15.24" y="-10.16" length="middle" rot="R180"/>
+<pin name="BIN2" x="15.24" y="-7.62" length="middle" rot="R180"/>
+<pin name="BIN1" x="15.24" y="-5.08" length="middle" rot="R180"/>
+<pin name="GND" x="15.24" y="-2.54" length="middle" rot="R180"/>
+<pin name="STBY" x="15.24" y="0" length="middle" rot="R180"/>
+<pin name="VCC" x="15.24" y="2.54" length="middle" rot="R180"/>
+<pin name="AIN1" x="15.24" y="5.08" length="middle" rot="R180"/>
+<pin name="AIN2" x="15.24" y="7.62" length="middle" rot="R180"/>
+<pin name="PWMA" x="15.24" y="10.16" length="middle" rot="R180"/>
+<pin name="VM1" x="15.24" y="12.7" length="middle" rot="R180"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="TB6612FNG" urn="urn:adsk.eagle:component:39241/1" library_version="1">
+<description>Toshiba 1A dual motor driver
+IC-09363</description>
+<gates>
+<gate name="G$1" symbol="TB6612FNG" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="SSOP24">
+<connects>
+<connect gate="G$1" pin="A01@1" pad="1"/>
+<connect gate="G$1" pin="A01@2" pad="2"/>
+<connect gate="G$1" pin="A02@5" pad="5"/>
+<connect gate="G$1" pin="A02@6" pad="6"/>
+<connect gate="G$1" pin="AIN1" pad="21"/>
+<connect gate="G$1" pin="AIN2" pad="22"/>
+<connect gate="G$1" pin="B01@11" pad="11"/>
+<connect gate="G$1" pin="B01@12" pad="12"/>
+<connect gate="G$1" pin="B02@7" pad="7"/>
+<connect gate="G$1" pin="B02@8" pad="8"/>
+<connect gate="G$1" pin="BIN1" pad="17"/>
+<connect gate="G$1" pin="BIN2" pad="16"/>
+<connect gate="G$1" pin="GND" pad="18"/>
+<connect gate="G$1" pin="PGND1@3" pad="3"/>
+<connect gate="G$1" pin="PGND1@4" pad="4"/>
+<connect gate="G$1" pin="PGND2@10" pad="10"/>
+<connect gate="G$1" pin="PGND2@9" pad="9"/>
+<connect gate="G$1" pin="PWMA" pad="23"/>
+<connect gate="G$1" pin="PWMB" pad="15"/>
+<connect gate="G$1" pin="STBY" pad="19"/>
+<connect gate="G$1" pin="VCC" pad="20"/>
+<connect gate="G$1" pin="VM1" pad="24"/>
+<connect gate="G$1" pin="VM2" pad="13"/>
+<connect gate="G$1" pin="VM3" pad="14"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:39211/1"/>
+</package3dinstances>
+<technologies>
+<technology name="">
+<attribute name="PROD_ID" value="IC-09363"/>
+<attribute name="VALUE" value="TB6612FNG"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 <attribute name="DESIGNER" value="Grant Stankaitis"/>
@@ -1389,6 +1683,8 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 </part>
 <part name="J1" library="con-headers-jp-1" deviceset="F-1X16-" device="SIP-100-40"/>
 <part name="CN2" library="1x16connector" deviceset="CONNECTOR1" device=""/>
+<part name="IC1" library="allegro" library_urn="urn:adsk.eagle:library:93" deviceset="A3946" device="" package3d_urn="urn:adsk.eagle:package:3447/1" technology="KLP-T"/>
+<part name="U$2" library="SparkFun-IC-Special-Function" library_urn="urn:adsk.eagle:library:527" deviceset="TB6612FNG" device="" package3d_urn="urn:adsk.eagle:package:39211/1" value="TB6612FNG"/>
 </parts>
 <sheets>
 <sheet>
@@ -1463,6 +1759,14 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 </instance>
 <instance part="CN2" gate="G$1" x="99.06" y="50.8" smashed="yes">
 <attribute name="NAME" x="104.14" y="55.88" size="1.778" layer="95"/>
+</instance>
+<instance part="IC1" gate="G$1" x="73.66" y="38.1" smashed="yes">
+<attribute name="NAME" x="63.5" y="49.53" size="1.778" layer="95"/>
+<attribute name="VALUE" x="63.5" y="22.86" size="1.778" layer="96"/>
+</instance>
+<instance part="U$2" gate="G$1" x="162.56" y="152.4" smashed="yes">
+<attribute name="NAME" x="149.86" y="168.148" size="1.27" layer="95"/>
+<attribute name="VALUE" x="149.86" y="132.08" size="1.27" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -1730,4 +2034,21 @@ USE AT YOUR OWN RISK!&lt;p&gt;
 </errors>
 </schematic>
 </drawing>
+<compatibility>
+<note version="8.2" severity="warning">
+Since Version 8.2, EAGLE supports online libraries. The ids
+of those online libraries will not be understood (or retained)
+with this version.
+</note>
+<note version="8.3" severity="warning">
+Since Version 8.3, EAGLE supports URNs for individual library
+assets (packages, symbols, and devices). The URNs of those assets
+will not be understood (or retained) with this version.
+</note>
+<note version="8.3" severity="warning">
+Since Version 8.3, EAGLE supports the association of 3D packages
+with devices in libraries, schematics, and board files. Those 3D
+packages will not be understood (or retained) with this version.
+</note>
+</compatibility>
 </eagle>
