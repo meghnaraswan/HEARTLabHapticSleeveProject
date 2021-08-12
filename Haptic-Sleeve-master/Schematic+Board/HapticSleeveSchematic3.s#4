@@ -1800,10 +1800,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="MOTOR_DRIVER_L_2" library="con-headers-jp-1" deviceset="F-1X08-" device="SIP-100-40"/>
 <part name="GND8" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
 <part name="MOTOR_DRIVER_R_2" library="con-headers-jp-1" deviceset="F-1X08-" device="SIP-100-40"/>
-<part name="MOTOR1" library="con-headers-jp-1" deviceset="F-1X02-" device="SIP-100-40"/>
-<part name="MOTOR2" library="con-headers-jp-1" deviceset="F-1X02-" device="SIP-100-40"/>
-<part name="MOTOR3" library="con-headers-jp-1" deviceset="F-1X02-" device="SIP-100-40"/>
-<part name="MOTOR4" library="con-headers-jp-1" deviceset="F-1X02-" device="SIP-100-40"/>
+<part name="J1" library="con-headers-jp-1" deviceset="F-1X02-" device="SIP-100-40"/>
+<part name="J2" library="con-headers-jp-1" deviceset="F-1X02-" device="SIP-100-40"/>
+<part name="J3" library="con-headers-jp-1" deviceset="F-1X02-" device="SIP-100-40"/>
+<part name="J4" library="con-headers-jp-1" deviceset="F-1X02-" device="SIP-100-40"/>
 </parts>
 <sheets>
 <sheet>
@@ -1895,19 +1895,19 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="VALUE" x="64.77" y="-20.32" size="1.778" layer="96" rot="R180"/>
 <attribute name="NAME" x="64.77" y="-46.482" size="1.778" layer="95" rot="R180"/>
 </instance>
-<instance part="MOTOR1" gate="G$1" x="15.24" y="-63.5" smashed="yes">
+<instance part="J1" gate="G$1" x="15.24" y="-63.5" smashed="yes">
 <attribute name="VALUE" x="13.97" y="-71.12" size="1.778" layer="96"/>
 <attribute name="NAME" x="13.97" y="-60.198" size="1.778" layer="95"/>
 </instance>
-<instance part="MOTOR2" gate="G$1" x="55.88" y="-63.5" smashed="yes">
+<instance part="J2" gate="G$1" x="55.88" y="-63.5" smashed="yes">
 <attribute name="VALUE" x="54.61" y="-71.12" size="1.778" layer="96"/>
 <attribute name="NAME" x="54.61" y="-60.198" size="1.778" layer="95"/>
 </instance>
-<instance part="MOTOR3" gate="G$1" x="15.24" y="-86.36" smashed="yes">
+<instance part="J3" gate="G$1" x="15.24" y="-86.36" smashed="yes">
 <attribute name="VALUE" x="13.97" y="-93.98" size="1.778" layer="96"/>
 <attribute name="NAME" x="13.97" y="-83.058" size="1.778" layer="95"/>
 </instance>
-<instance part="MOTOR4" gate="G$1" x="55.88" y="-86.36" smashed="yes">
+<instance part="J4" gate="G$1" x="55.88" y="-86.36" smashed="yes">
 <attribute name="VALUE" x="54.61" y="-93.98" size="1.778" layer="96"/>
 <attribute name="NAME" x="54.61" y="-83.058" size="1.778" layer="95"/>
 </instance>
@@ -1917,98 +1917,98 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <nets>
 <net name="M3+" class="0">
 <segment>
+<pinref part="M3" gate="G$1" pin="+"/>
+<wire x1="91.44" y1="-45.72" x2="91.44" y2="-43.18" width="0.1524" layer="91"/>
+<label x="91.44" y="-43.18" size="1.778" layer="95"/>
+</segment>
+<segment>
 <pinref part="MOTOR_DRIVER_L_2" gate="G$1" pin="4"/>
 <wire x1="10.16" y1="-33.02" x2="2.54" y2="-33.02" width="0.1524" layer="91"/>
 <label x="2.54" y="-33.02" size="1.778" layer="95"/>
 </segment>
-<segment>
-<pinref part="MOTOR3" gate="G$1" pin="1"/>
-<wire x1="10.16" y1="-86.36" x2="5.08" y2="-86.36" width="0.1524" layer="91"/>
-<label x="5.08" y="-86.36" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="M3-" class="0">
+<segment>
+<pinref part="M3" gate="G$1" pin="-"/>
+<wire x1="91.44" y1="-55.88" x2="91.44" y2="-58.42" width="0.1524" layer="91"/>
+<label x="91.44" y="-58.42" size="1.778" layer="95"/>
+</segment>
 <segment>
 <pinref part="MOTOR_DRIVER_L_2" gate="G$1" pin="5"/>
 <wire x1="10.16" y1="-35.56" x2="2.54" y2="-35.56" width="0.1524" layer="91"/>
 <label x="2.54" y="-35.56" size="1.778" layer="95"/>
 </segment>
-<segment>
-<pinref part="MOTOR3" gate="G$1" pin="2"/>
-<wire x1="10.16" y1="-88.9" x2="5.08" y2="-88.9" width="0.1524" layer="91"/>
-<label x="5.08" y="-88.9" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="M4+" class="0">
+<segment>
+<pinref part="M4" gate="G$1" pin="+"/>
+<wire x1="121.92" y1="-45.72" x2="121.92" y2="-43.18" width="0.1524" layer="91"/>
+<label x="121.92" y="-43.18" size="1.778" layer="95"/>
+</segment>
 <segment>
 <pinref part="MOTOR_DRIVER_L_2" gate="G$1" pin="6"/>
 <wire x1="10.16" y1="-38.1" x2="2.54" y2="-38.1" width="0.1524" layer="91"/>
 <label x="2.54" y="-38.1" size="1.778" layer="95"/>
 </segment>
-<segment>
-<pinref part="MOTOR4" gate="G$1" pin="1"/>
-<wire x1="50.8" y1="-86.36" x2="45.72" y2="-86.36" width="0.1524" layer="91"/>
-<label x="45.72" y="-86.36" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="M4-" class="0">
+<segment>
+<pinref part="M4" gate="G$1" pin="-"/>
+<wire x1="121.92" y1="-55.88" x2="121.92" y2="-58.42" width="0.1524" layer="91"/>
+<label x="121.92" y="-58.42" size="1.778" layer="95"/>
+</segment>
 <segment>
 <pinref part="MOTOR_DRIVER_L_2" gate="G$1" pin="7"/>
 <wire x1="10.16" y1="-40.64" x2="2.54" y2="-40.64" width="0.1524" layer="91"/>
 <label x="2.54" y="-40.64" size="1.778" layer="95"/>
 </segment>
-<segment>
-<pinref part="MOTOR4" gate="G$1" pin="2"/>
-<wire x1="50.8" y1="-88.9" x2="45.72" y2="-88.9" width="0.1524" layer="91"/>
-<label x="45.72" y="-88.9" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="M1-" class="0">
+<segment>
+<pinref part="M1" gate="G$1" pin="-"/>
+<wire x1="91.44" y1="-30.48" x2="91.44" y2="-33.02" width="0.1524" layer="91"/>
+<label x="91.44" y="-33.02" size="1.778" layer="95"/>
+</segment>
 <segment>
 <pinref part="MOTOR_DRIVER_L_1" gate="G$1" pin="5"/>
 <wire x1="10.16" y1="0" x2="2.54" y2="0" width="0.1524" layer="91"/>
 <label x="2.54" y="0" size="1.778" layer="95"/>
 </segment>
-<segment>
-<pinref part="MOTOR1" gate="G$1" pin="2"/>
-<wire x1="10.16" y1="-66.04" x2="5.08" y2="-66.04" width="0.1524" layer="91"/>
-<label x="5.08" y="-66.04" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="M2-" class="0">
+<segment>
+<pinref part="M2" gate="G$1" pin="-"/>
+<wire x1="121.92" y1="-30.48" x2="121.92" y2="-33.02" width="0.1524" layer="91"/>
+<label x="121.92" y="-33.02" size="1.778" layer="95"/>
+</segment>
 <segment>
 <pinref part="MOTOR_DRIVER_L_1" gate="G$1" pin="7"/>
 <wire x1="10.16" y1="-5.08" x2="2.54" y2="-5.08" width="0.1524" layer="91"/>
 <label x="2.54" y="-5.08" size="1.778" layer="95"/>
 </segment>
-<segment>
-<pinref part="MOTOR2" gate="G$1" pin="2"/>
-<wire x1="50.8" y1="-66.04" x2="45.72" y2="-66.04" width="0.1524" layer="91"/>
-<label x="45.72" y="-66.04" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="M2+" class="0">
+<segment>
+<pinref part="M2" gate="G$1" pin="+"/>
+<wire x1="121.92" y1="-20.32" x2="121.92" y2="-17.78" width="0.1524" layer="91"/>
+<label x="121.92" y="-17.78" size="1.778" layer="95"/>
+</segment>
 <segment>
 <pinref part="MOTOR_DRIVER_L_1" gate="G$1" pin="6"/>
 <wire x1="10.16" y1="-2.54" x2="2.54" y2="-2.54" width="0.1524" layer="91"/>
 <label x="2.54" y="-2.54" size="1.778" layer="95"/>
 </segment>
-<segment>
-<pinref part="MOTOR2" gate="G$1" pin="1"/>
-<wire x1="50.8" y1="-63.5" x2="45.72" y2="-63.5" width="0.1524" layer="91"/>
-<label x="45.72" y="-63.5" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="M1+" class="0">
+<segment>
+<pinref part="M1" gate="G$1" pin="+"/>
+<wire x1="91.44" y1="-20.32" x2="91.44" y2="-17.78" width="0.1524" layer="91"/>
+<label x="91.44" y="-17.78" size="1.778" layer="95"/>
+</segment>
 <segment>
 <pinref part="MOTOR_DRIVER_L_1" gate="G$1" pin="4"/>
 <wire x1="10.16" y1="2.54" x2="2.54" y2="2.54" width="0.1524" layer="91"/>
 <label x="2.54" y="2.54" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="MOTOR1" gate="G$1" pin="1"/>
-<wire x1="10.16" y1="-63.5" x2="5.08" y2="-63.5" width="0.1524" layer="91"/>
-<label x="5.08" y="-63.5" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="VCC" class="0">
