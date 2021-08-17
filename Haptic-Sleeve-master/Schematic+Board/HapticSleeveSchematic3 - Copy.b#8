@@ -148,6 +148,8 @@
 <wire x1="100" y1="0" x2="100" y2="80" width="0" layer="20"/>
 <wire x1="100" y1="80" x2="0" y2="80" width="0" layer="20"/>
 <wire x1="0" y1="80" x2="0" y2="0" width="0" layer="20"/>
+<text x="17.78" y="33.02" size="1.27" layer="21">Haptic Sleeve v2</text>
+<text x="17.78" y="31.75" size="1.016" layer="21">Chapman University</text>
 </plain>
 <libraries>
 <library name="adafruit" urn="urn:adsk.eagle:library:420">

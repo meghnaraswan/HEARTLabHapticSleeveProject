@@ -152,6 +152,8 @@
 <text x="17.78" y="31.75" size="1.016" layer="21">Chapman University</text>
 <dimension x1="100" y1="0" x2="100" y2="80" x3="97.79" y3="40" textsize="1.778" layer="1"/>
 <dimension x1="0" y1="80" x2="100" y2="80" x3="50" y3="77.47" textsize="1.778" layer="1"/>
+<dimension x1="60.63" y1="0" x2="60.63" y2="35.55" x3="64.77" y3="17.775" textsize="1.778" layer="1"/>
+<dimension x1="0" y1="35.55" x2="60.63" y2="35.55" x3="30.315" y3="38.1" textsize="1.778" layer="1"/>
 </plain>
 <libraries>
 <library name="adafruit" urn="urn:adsk.eagle:library:420">
